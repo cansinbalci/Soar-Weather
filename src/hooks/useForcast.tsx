@@ -1,6 +1,6 @@
 import { useState, useEffect, ChangeEvent } from 'react'
 
-import { optionType, forecastType } from './../types/index'
+import { optionType, forecastType } from '../types/index'
 
 const BASE_URL = 'http://api.openweathermap.org'
 
